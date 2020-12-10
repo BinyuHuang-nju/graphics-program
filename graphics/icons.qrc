@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/pic_magnify.jpg</file>
+        <file>pic/pic_open.jpg</file>
+        <file>pic/pic_save.jpg</file>
+        <file>pic/pic_create.jpg</file>
+        <file>pic/pic_narrow.jpg</file>
+        <file>pic/pic_exit.jpg</file>
+        <file>pic/pic_saveas.jpg</file>
+        <file>pic/pic_print.jpg</file>
+        <file>pic/pic_clear.jpg</file>
+        <file>pic/pic_redraw.jpg</file>
+        <file>pic/pic_rotation.jpg</file>
+    </qresource>
+</RCC>
